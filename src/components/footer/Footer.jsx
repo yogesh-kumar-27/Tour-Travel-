@@ -53,7 +53,7 @@ export default function Footer() {
           <h3>contact info</h3>
           <p>
             {" "}
-            <i className="fas fa-map"></i> mumbai, india{" "}
+            <i className="fas fa-map"></i> delhi, india{" "}
           </p>
           <p>
             {" "}
@@ -61,7 +61,7 @@ export default function Footer() {
           </p>
           <p>
             {" "}
-            <i className="fas fa-envelope"></i> shaikhanas@gmail.com{" "}
+            <i className="fas fa-envelope"></i> lorem@gmail.com{" "}
           </p>
           <p>
             {" "}
